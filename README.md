@@ -59,7 +59,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd seu-repositorio
+    cd desafio_obrasGov
     ```
 
 3.  **Crie e ative um ambiente virtual:**
