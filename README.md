@@ -54,7 +54,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone git@github.com:devwallyson/desafio_ObrasGov.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
